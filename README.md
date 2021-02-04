@@ -1,3 +1,3 @@
 # Carousell webscraping Google Play Store reviews
-Python notebook
-Pdf slides
+- Python notebook
+- Pdf slides
