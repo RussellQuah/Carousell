@@ -1,1 +1,0 @@
-Webscrapping of Carousell reviwes from Google Play Store
